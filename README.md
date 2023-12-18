@@ -1,13 +1,10 @@
 Project College Database
 
-License
-
-No License
 
 Description
 
 The purpose of this assignment is to analyse a system and go through design steps using MySQL RDBMS, and perform very simple data entry and database backups.
-A college has decided to develop a database for “admins”, “teachers”, “students” and “courses”. The database needs to support an application that enables students to select from the offered courses. 
+A college has decided to develop a database for “admins”, “teachers”, “students” and “courses”. 
 
 Here are the features of the application:
 
@@ -18,30 +15,16 @@ Feature 2 Admins, assign courses to teachers.
 
 Feature 3 Teachers can pass or fail students.
 
-...
-Background
-Additional background information, if needed.
-
-Badges
-
-Include any relevant badges to convey metadata about your project. For example, build status, code coverage, etc.
-
-Visuals
-
-Add screenshots or GIFs to showcase your project. You can use tools like ttygif or Asciinema.
-
 Installation
 
 Mysql Workbench 
-Requirements
-List any prerequisites, such as programming language version or operating system.
 
 Usage
 
-Show examples of how to use your project. Include inline code snippets and expected output.
-
+The database needs to support an application that enables students to select from the offered courses. 
 bash
-Copy code
+
+
 -- MySQL dump 10.13  Distrib 8.0.33, for macos13 (x86_64)
 --
 -- Host: 127.0.0.1    Database: university
@@ -346,31 +329,19 @@ UNLOCK TABLES;
 -- Dump completed on 2023-11-27  2:44:58
 
 
-Support
-
-If you need help, have questions, or want to report a bug, please open an issue here.
-
-Roadmap
-
-List any future releases or features you plan to implement.
 
 Contributing
 
 We welcome contributions! If you want to contribute, please follow the guidelines in CONTRIBUTING.md.
 
 Getting Started
-Include steps to set up the development environment and run tests.
+Import The dump file from MySQL Workbench
 
-Authors and Acknowledgment
 
-Give credit to contributors and acknowledge their contributions.
 
 License
 
 This project is licensed under the MIT License.
 
-Project Status
-
-Note: Development has [slowed down/stopped completely]. Feel free to fork or volunteer as a maintainer.
 
 Feel free to customize this template according to the specifics of your project.
