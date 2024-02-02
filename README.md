@@ -26,7 +26,7 @@ bash
 * after installation, open a command prompt or terminal and run the following command to verify that MySQL is installed and running mysql --version
 
 # Table of Contents
-- [Table structure for table Admins](#Table structure for table Admins)
+- [MySQL dump 10.13 Distrib 8.0.33, for macos13 (x86_64)](#MySQL-dump-10.13-Distrib-8.0.33-for-macos13-(x86_64))
 - [Database Import](#database-import)
 - [Database Stored Procedures](#database-stored-procedures)
 - [Create Service Account](#create-service-account)
