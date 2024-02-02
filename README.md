@@ -25,6 +25,16 @@ bash
 * Download and install MySQL from the official website MySQL Downloads
 * after installation, open a command prompt or terminal and run the following command to verify that MySQL is installed and running mysql --version
 
+# Table of Contents
+- [Table structure for table Admins](#Table structure for table Admins)
+- [Database Import](#database-import)
+- [Database Stored Procedures](#database-stored-procedures)
+- [Create Service Account](#create-service-account)
+- [Run the API](#run-the-api)
+- [API Functionality](#api-functionality)
+- [Unit Test Using Postman](#unit-test-using-postman)
+- [Directory Structure](#directory-structure)
+
 
 
 -- MySQL dump 10.13  Distrib 8.0.33, for macos13 (x86_64)
