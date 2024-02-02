@@ -1,27 +1,27 @@
 # Project College Database
 
 
-#Description
+# Description
 
-**The purpose of this assignment is to analyse a system and go through design steps using MySQL RDBMS, and perform very simple data entry and database backups.
-**A college has decided to develop a database for “admins”, “teachers”, “students” and “courses”. 
+** The purpose of this assignment is to analyse a system and go through design steps using MySQL RDBMS, and perform very simple data entry and database backups.
+** A college has decided to develop a database for “admins”, “teachers”, “students” and “courses”. 
 
-#Here are the features of the application:
+# Here are the features of the application:
 
-#Features
-**Feature 1 Course availability for each semester is decided by college admins and students can only see the offered courses. 
+# Features
+** Feature 1 Course availability for each semester is decided by college admins and students can only see the offered courses. 
 
-**Feature 2 Admins, assign courses to teachers.
+** Feature 2 Admins, assign courses to teachers.
 
-**Feature 3 Teachers can pass or fail students.
+** Feature 3 Teachers can pass or fail students.
 
-#Installation
+# Installation
 
-#Mysql Workbench 
+# Mysql Workbench 
 
-#Usage
+# Usage
 
-#The database needs to support an application that enables students to select from the offered courses. 
+# The database needs to support an application that enables students to select from the offered courses. 
 bash
 
 
