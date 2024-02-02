@@ -340,7 +340,7 @@ UNLOCK TABLES;
 
 # License
 
-** This project is licensed under the MIT License.
+* This project is licensed under the MIT License.
 
 
-** Feel free to customize this template according to the specifics of your project.
+* Feel free to customize this template according to the specifics of your project.
