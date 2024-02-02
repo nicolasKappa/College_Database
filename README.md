@@ -15,14 +15,13 @@
 
 ** Feature 3 Teachers can pass or fail students.
 
-# Installation
-
-# Mysql Workbench 
-
 # Usage
 
 * The database needs to support an application that enables students to select from the offered courses. 
 bash
+
+# Installation in MySQL Workbwch
+
 
 
 -- MySQL dump 10.13  Distrib 8.0.33, for macos13 (x86_64)
