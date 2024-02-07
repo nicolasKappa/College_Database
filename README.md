@@ -1,4 +1,4 @@
-# Project College Database
+# University Project - College Database
 
 
 # Description
@@ -6,7 +6,6 @@
 * The purpose of this assignment is to analyse a system and go through design steps using MySQL RDBMS, and perform very simple data entry and database backups.
 * A college has decided to develop a database for “admins”, “teachers”, “students” and “courses”. 
 
-# Here are the features of the application:
 
 # Features
 * Feature 1 Course availability for each semester is decided by college admins and students can only see the offered courses. 
@@ -20,24 +19,26 @@
 * The database needs to support an application that enables students to select from the offered courses. 
 bash
 
-# Installation in MySQL Workbwch
+# Table of Contents
+- [Getting Started](#Getting-Started)
+- [MySQL dump 10.13 Distrib 8.0.33, for macos13 (x86_64)](#MySQL-dump-10.13-Distrib-8.0.33-for-macos13-(x86_64))
+- [Database Import](#database-import)
+- [License](#License)
+- [Contributing](#Contributing)
+
+
+
+
+
+# Getting Started
+* Installation in MySQL Workbwch
 1) Download mySQL:
 * Download and install MySQL from the official website MySQL Downloads
 * after installation, open a command prompt or terminal and run the following command to verify that MySQL is installed and running mysql --version
-
-# Table of Contents
-- [MySQL dump 10.13 Distrib 8.0.33, for macos13 (x86_64)](#MySQL-dump-10.13-Distrib-8.0.33-for-macos13-(x86_64))
-- [Database Import](#database-import)
-- [Database Stored Procedures](#database-stored-procedures)
-- [Create Service Account](#create-service-account)
-- [Run the API](#run-the-api)
-- [API Functionality](#api-functionality)
-- [Unit Test Using Postman](#unit-test-using-postman)
-- [Directory Structure](#directory-structure)
+2) * Import The dump file from MySQL Workbench
 
 
-
--- MySQL dump 10.13  Distrib 8.0.33, for macos13 (x86_64)
+# MySQL dump 10.13  Distrib 8.0.33, for macos13 (x86_64)
 --
 -- Host: 127.0.0.1    Database: university
 -- ------------------------------------------------------
@@ -345,10 +346,6 @@ UNLOCK TABLES;
 # Contributing
 
 * We welcome contributions! If you want to contribute, please follow the guidelines in CONTRIBUTING.md.
-
-# Getting Started
-* Import The dump file from MySQL Workbench
-
 
 
 # License
