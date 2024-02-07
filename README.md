@@ -21,8 +21,7 @@ bash
 
 # Table of Contents
 - [Getting Started](#Getting-Started)
-- [MySQL dump 10.13 Distrib 8.0.33, for macos13 (x86_64)](#MySQL-dump-10.13-Distrib-8.0.33-for-macos13-(x86_64))
-- [Database Import](#database-import)
+- [Inside Database Dump File ](#Inside-Database-Dump-File)
 - [License](#License)
 - [Contributing](#Contributing)
 
@@ -31,14 +30,13 @@ bash
 
 
 # Getting Started
-* Installation in MySQL Workbwch
 1) Download mySQL:
 * Download and install MySQL from the official website MySQL Downloads
 * after installation, open a command prompt or terminal and run the following command to verify that MySQL is installed and running mysql --version
-2) * Import The dump file from MySQL Workbench
+2) Import The dump file from MySQL Workbench
 
-
-# MySQL dump 10.13  Distrib 8.0.33, for macos13 (x86_64)
+# Inside Database Dump File 
+* MySQL dump 10.13  Distrib 8.0.33, for macos13 (x86_64)
 --
 -- Host: 127.0.0.1    Database: university
 -- ------------------------------------------------------
