@@ -343,14 +343,14 @@ UNLOCK TABLES;
 
 
 
-# Contributing
-
-* We welcome contributions! If you want to contribute, please follow the guidelines in CONTRIBUTING.md.
-
 
 # License
 
 * This project is licensed under the MIT License.
 
-
 * Feel free to customize this template according to the specifics of your project.
+
+
+# Contributing
+
+* We welcome contributions! If you want to contribute, please follow the guidelines in CONTRIBUTING.md.
