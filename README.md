@@ -351,4 +351,4 @@ UNLOCK TABLES;
 
 # Contributing
 
-* We welcome contributions! If you want to contribute, please follow the guidelines in CONTRIBUTING.md.
+* We welcome contributions! If you want to contribute, please follow the guidelines in README.md
