@@ -1,8 +1,7 @@
-# University Project - College Database
+# College Database
 
 
 # Description
-
 * The purpose of this assignment is to analyse a system and go through design steps using MySQL RDBMS, and perform very simple data entry and database backups.
 * A college has decided to develop a database for “admins”, “teachers”, “students” and “courses”. 
 
@@ -15,7 +14,6 @@
 * Feature 3 Teachers can pass or fail students.
 
 # Usage
-
 * The database needs to support an application that enables students to select from the offered courses. 
 bash
 
@@ -24,10 +22,6 @@ bash
 - [Inside Database Dump File ](#Inside-Database-Dump-File)
 - [License](#License)
 - [Contributing](#Contributing)
-
-
-
-
 
 # Getting Started
 1) Download mySQL:
