@@ -134,13 +134,13 @@ CREATE TABLE `Students` (
 
 ### How to Set Up
 
-** Execute the SQL schema in MySQL Workbench or any SQL client connected to a MySQL server.
-** Insert the sample data into the tables.
-** Make sure the foreign key relationships are respected, as they define how data in one table is related to data in another table.
+-* Execute the SQL schema in MySQL Workbench or any SQL client connected to a MySQL server.
+-* Insert the sample data into the tables.
+-* Make sure the foreign key relationships are respected, as they define how data in one table is related to data in another table.
 
 ### License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-** This project is licensed under the MIT License.
+-* This project is licensed under the MIT License.
 
 
 
