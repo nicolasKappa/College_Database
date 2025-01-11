@@ -337,10 +337,8 @@ UNLOCK TABLES;
 
 
 # License
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 * This project is licensed under the MIT License.
-
-* Feel free to customize this template according to the specifics of your project.
 
 
 # Contributing
