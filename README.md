@@ -31,7 +31,7 @@ CREATE TABLE `Admins` (
   UNIQUE KEY `Admin_Email_UNIQUE` (`Admin_Email`)
 );
 ```
-** Table 2: Teachers
+### Table 2: Teachers
 ```
 CREATE TABLE `Teachers` (
   `TeacherID` int NOT NULL DEFAULT '0',
@@ -41,7 +41,7 @@ CREATE TABLE `Teachers` (
   UNIQUE KEY `Teacher_Email_UNIQUE` (`Teacher_Email`)
 );
 ```
-** Table 3: Courses
+### Table 3: Courses
 ```
 CREATE TABLE `Courses` (
   `CourseID` int NOT NULL DEFAULT '0',
@@ -56,7 +56,7 @@ CREATE TABLE `Courses` (
 );
 ```
 
-** Table 4: CourseAvailability
+### Table 4: CourseAvailability
 ```
 CREATE TABLE `CourseAvailability` (
   `CourseAvailability_ID` int NOT NULL DEFAULT '0',
@@ -74,7 +74,7 @@ CREATE TABLE `CourseAvailability` (
 );
 ```
 
-** Table 5: CourseAssignments
+### Table 5: CourseAssignments
 ```
 CREATE TABLE `CourseAssignments` (
   `AssignmentID` int NOT NULL DEFAULT '0',
@@ -94,7 +94,7 @@ CREATE TABLE `CourseAssignments` (
   CONSTRAINT `TeacherID` FOREIGN KEY (`TeachID`) REFERENCES `Teachers` (`TeacherID`)
 );
 ```
-** Table 6: Enrollments
+### Table 6: Enrollments
 ```
 CREATE TABLE `Enrollments` (
   `EnrollmentID` int NOT NULL DEFAULT '0',
@@ -108,7 +108,7 @@ CREATE TABLE `Enrollments` (
   CONSTRAINT `StudentID` FOREIGN KEY (`StudentID`) REFERENCES `Students` (`StudentID`)
 );
 ```
-** Table 7: Semesters
+### Table 7: Semesters
 ```
 CREATE TABLE `Semesters` (
   `SemesterID` int NOT NULL DEFAULT '0',
@@ -118,7 +118,7 @@ CREATE TABLE `Semesters` (
 );
 ```
 
-** Table 8: Students
+### Table 8: Students
 ```
 CREATE TABLE `Students` (
   `StudentID` int NOT NULL DEFAULT '0',
